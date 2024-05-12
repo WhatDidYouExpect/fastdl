@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/skerion/bigcity/bballhoop"
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+$baseTexture "models\skerion\bigcity\branch_city"
+$alphatest 1
+
+
+
+$nocull 1
+$model 1
+$FlashlightNoLambert 1
+}
